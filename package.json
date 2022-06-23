@@ -1,0 +1,27 @@
+{
+  "name": "enmity-devsocket",
+  "version": "1.0.0",
+  "description": "A devtool for Enmity.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "Beef",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@windicss/plugin-scrollbar": "^1.2.3",
+    "typescript": "^4.7.4",
+    "vite": "^2.9.12",
+    "vite-plugin-solid": "^2.2.6",
+    "vite-plugin-windicss": "^1.8.4",
+    "windicss": "^3.5.4"
+  },
+  "dependencies": {
+    "monaco-solid": "^1.0.1",
+    "solid-js": "^1.4.4"
+  }
+}

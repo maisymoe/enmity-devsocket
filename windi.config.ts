@@ -34,6 +34,7 @@ export default defineConfig({
             "accent": "#5865f2",
             "accent-dimmed": "#4a54c1",
             "green": "#57F287",
+            "yellow": "#FEE75C",
             "red": "#ED4245",
         },
     },

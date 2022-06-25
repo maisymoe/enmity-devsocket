@@ -1,4 +1,4 @@
-import { JSX, createSignal } from "solid-js";
+import { JSX } from "solid-js";
 import { Message } from "../def";
 
 type OutputMessageProps = Message & {
